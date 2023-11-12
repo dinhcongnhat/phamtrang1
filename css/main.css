@@ -12,12 +12,12 @@ a.white-mode, a.white-mode:link, a.white-mode:visited, a.white-mode:active {
   font-size: 12px;
   text-decoration: none;        /* background: #212121; */
   padding: 4px 8px;
-  color: #f7f7f7;
+  color: #ff0000;
 }
 
 a.white-mode:hover, a.white-mode:link:hover, a.white-mode:visited:hover, a.white-mode:active:hover {
-  background: #edf3f8;
-  color: #212121;
+  background: #4993cf;
+  color: #964242;
 }
 
 .title {
@@ -34,13 +34,13 @@ a.white-mode:hover, a.white-mode:link:hover, a.white-mode:visited:hover, a.white
 .title h1 {
   z-index: 99;
   position: relative;
-  color: #fff;
+  color: #ffffff;
   font-weight: 100;
-  font-size: 70px;
+  font-size: 50px;
   padding: 0;
   margin: 0;
   line-height: 1;
-  text-shadow: 0 0 10px #ff006c, 0 0 20px #ff006c, 0 0 30px #ff006c, 0 0 40px #ff417d, 0 0 70px #ff417d, 0 0 80px #ff417d, 0 0 100px #ff417d, 0 0 150px #ff417d;
+  text-shadow: 0 0 10px #e1e1da, 0 0 20px #ff006c, 0 0 30px #ff006c, 0 0 40px #ff417d, 0 0 70px #ff417d, 0 0 80px #ff417d, 0 0 100px #ff417d, 0 0 150px #ff417d;
 }
 
 .title h1 span {
@@ -48,17 +48,18 @@ a.white-mode:hover, a.white-mode:link:hover, a.white-mode:visited:hover, a.white
   font-weight: 600;
   padding: 0;
   margin: 0;
-  color: #ffffff;
+  color: #ff0000;
 }
 
 .title h3 {
   z-index: 99;
-  font-weight: 200;
+  font-weight: 100;
   font-size: 26px;
   padding: 0;
   margin: 0;
   line-height: 1;
   color: #ffffff;
+  text-shadow: 0 0 10px #e1e1da, 0 0 20px #ff006c, 0 0 30px #ff006c, 0 0 40px #ff417d, 0 0 70px #ff417d, 0 0 80px #ff417d, 0 0 100px #ff417d, 0 0 150px #ff417d;
   letter-spacing: 2px;
 }
 
